@@ -1,0 +1,6 @@
+[submodule "src/packages/child-repo-1"]
+	path = src/packages/child-repo-1
+	url = https://github.com/zhasan-rex/child-repo-1.git
+[submodule "libs/child-repo-2"]
+	path = libs/child-repo-2
+	url = https://github.com/zhasan-rex/child-repo-2.git
